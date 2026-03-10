@@ -1,0 +1,18 @@
+# Python bytecode rác
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo
+venv/
+env/
+
+# Database (Nên giữ lại nếu bạn muốn giữ data hiện tại, 
+# nhưng thường người ta sẽ ignore để máy khác tự tạo mới)
+# db.sqlite3
+
+# Static files đã gom
+staticfiles/
+
+# Các file cấu hình nhạy cảm
+.env
